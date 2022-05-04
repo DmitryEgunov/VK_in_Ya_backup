@@ -1,0 +1,10 @@
+bar==0.2.1
+certifi==2021.10.8
+charset-normalizer==2.0.12
+idna==3.3
+progress==1.6
+progressbar==2.5
+requests==2.27.1
+six==1.16.0
+StackAPI==0.2.0
+urllib3==1.26.9
